@@ -1,0 +1,19 @@
+# Datasets----注意存放的绝对路径，相对路径不行，我试了一下
+train: /**/moss/github/ultralytics-main/ultralytics/datasets/ExDark/train
+val: /**/moss/github/ultralytics-main/ultralytics/datasets/ExDark/valid
+test: /**/moss/github/ultralytics-main/ultralytics/datasets/ExDark/test
+
+# Classes
+names:
+  0: Bicycle
+  1: Boat
+  2: Bottle
+  3: Bus
+  4: Car
+  5: Cat
+  6: Chair
+  7: Cup
+  8: Dog
+  9: Motorbike
+  10: People
+  11: Table

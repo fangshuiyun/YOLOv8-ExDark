@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\runs\detect\train2\results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
